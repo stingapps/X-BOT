@@ -1,7 +1,7 @@
-\\Beltah Tech 254 ///
+\\Sting tech ///
 
 "Use strict" 
-process.env.remote.c.beltah.js
+process.env.remote.c.sting.js
 
 
 else
@@ -10,4 +10,4 @@ else
 > error.no. active. js running 
 
 
-// ©Beltah Tech 254   .....I'M UNSTOPABLE NOW..
+// ©StingTech 254   .....I'M UNSTOPABLE NOW..
