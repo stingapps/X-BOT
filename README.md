@@ -1,7 +1,7 @@
 <h1 align="center">STING 𝐌𝐃</h1>
 <p align="center">  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +BELTAH MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+STING+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +STING MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+STING+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
   
   </p>
     <img alt="STING-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
