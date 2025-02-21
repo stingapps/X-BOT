@@ -56,7 +56,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://x-bot-fork-cheacker.vercel.app/)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://sting-tech-fork-cheacker.vercel.app/)***
 
 <br>
 
