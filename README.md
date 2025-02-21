@@ -11,8 +11,8 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Beltah254/X-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltah254/x-BOT?&style=social"></a>
-<a href="https://github.com/Beltah254/X-BOT 
+<a href="https://github.com/Sting/X-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Sting/x-BOT?&style=social"></a>
+<a href="https://github.com/sting/X-BOT 
   /network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sting/X-BOT?style=social"></a>
 <a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social"></a>
   
@@ -31,7 +31,7 @@
 
 🚦 [`SCAN QR 2`](https://STING-md-sessions.onrender.com/wasiqr)
 
-✅ [`BELTAH TECH SITE`](https://STING-md-sessions.onrender.com/)
+✅ [`STING TECH SITE`](https://STING-md-sessions.onrender.com/)
 
 * - Copy The Session ID for it Will be needed during deployment*
 
