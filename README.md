@@ -7,10 +7,10 @@
     <img alt="STING-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Beltah254/X-BOT "><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/STING/X-BOT "><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
+<a href="https://github.com/Sting?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/sting tech?label=Followers&style=social"></a>
 <a href="https://github.com/Sting/X-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Sting/x-BOT?&style=social"></a>
 <a href="https://github.com/sting/X-BOT 
   /network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sting/X-BOT?style=social"></a>
@@ -77,7 +77,7 @@ allowed! For we shall not offer any help if any error occur!
 
 ***
 ### THANKS TO:
-- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For all codes and commands Addition.
+- [***Sting Tech 254 🇰🇪***](https://github.com/sting tech) For all codes and commands Addition.
 
 
-© BELTAH XBOT ®03/01/2025
+© STING MD BOT ®03/01/2025
